@@ -1,6 +1,6 @@
 .lightpick {
     position: relative;  /* absolute */
-    z-index: 99999;
+    z-index: 99999;  /* this is a test */
     padding: 5px;
     width: 100%;
     /*max-width: 300px;*/
